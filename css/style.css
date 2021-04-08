@@ -1,0 +1,103 @@
+body {
+    background-color: #fff
+}
+
+/* TETE TITRE BTN*/
+
+.card-img
+{
+    filter:blur(1px);
+    opacity:0.6;
+    
+}
+.tete h1
+{
+    color:#ffffff;
+    text-align:center;
+    font-size:40px;
+}
+
+.tete h4
+{
+    color:#ffffff;
+    text-align:center;    
+}
+
+.btn btn-primary
+
+{
+    height:64px;
+    width:64px;
+
+}
+
+.text-center {
+    padding-top: 40px;
+}
+
+button .btn-primary
+{
+    text-align:center;
+}
+
+/* TETE TITRE BTN*/
+
+/* TSF 3 POINTS */
+.titletsp h1 {
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+    padding-top:70px;
+}
+
+.titletsp .card {
+    padding-top: 40px;
+    text-align: center;
+    border:none;
+}
+
+
+.titletsp .card p i
+{
+    font-size:70px;
+    text-align:right;
+}
+
+/* TSF 3 POINTS */
+
+/* TEMOIGNAGNES */
+.tem h1 {
+    color: #000000;
+    font-size: 60px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+/* TEMOIGNAGES */
+
+/* PRICE */
+.price h1 {
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.price h4
+{
+    color:#000000;
+    ;
+}
+
+.price small
+{
+    color:#808080
+}
+/* PRICE */
+
+/* Copyright */
+
+footer{
+    color:#808080
+}
